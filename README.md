@@ -132,5 +132,9 @@ http://<ec2-instance-public-ip>:8080/restart
 The docker agent configuration is now successful.
 
 
+Sudheer changes.
+https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+ps -ef | grep jenkins
+
 
 
